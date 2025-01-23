@@ -14,3 +14,11 @@ npm install
 npm run start
 ```
 
+## Limitation
+
+Currently, all components within the `MetabaseProvider` must be React components. See `app.component.tsx` for an example.  
+
+This means that mixing React and Angular components within the subtree of `MetabaseProvider` is not allowed.  
+
+If you require custom wrappers around SDK components, they must be implemented as React components. See `first.child.component.tsx` for an example.  
+
