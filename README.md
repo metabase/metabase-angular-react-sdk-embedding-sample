@@ -1,6 +1,6 @@
-# MyApp
+# (Experimental) Angular Support for Embedding SDK
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.3.
+Currently, the Embedding SDK is optimized for use with React. The current example is created for demonstration purposes and may contain errors.
 
 ## Development server
 
