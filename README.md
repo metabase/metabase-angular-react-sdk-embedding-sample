@@ -14,7 +14,7 @@ npm install
 npm run start
 ```
 
-## Limitation
+## Limitations
 
 Currently, all components within the `MetabaseProvider` must be React components. See `app.component.tsx` for an example.  
 
